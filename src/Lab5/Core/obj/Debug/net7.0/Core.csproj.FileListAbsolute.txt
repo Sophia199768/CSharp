@@ -1,0 +1,15 @@
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/bin/Debug/net7.0/Core
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/bin/Debug/net7.0/Core.deps.json
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/bin/Debug/net7.0/Core.runtimeconfig.json
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/bin/Debug/net7.0/Core.dll
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/bin/Debug/net7.0/Core.pdb
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/Core.dll
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/Core.pdb
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/Core.genruntimeconfig.cache
+/Users/sophia/Desktop/Sophia199768/src/Lab5/Core/obj/Debug/net7.0/ref/Core.dll

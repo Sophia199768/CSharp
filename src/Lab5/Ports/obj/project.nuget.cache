@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8MIgrypYZOCGhX+DxM+eyiqsm1gspJpU36z5IELgEh6G90fogCEWM/PK3u1B42bK5j1TW+S6flzEMC3A8SsEhA==",
+  "success": true,
+  "projectFilePath": "/Users/sophia/Desktop/Sophia199768/src/Lab5/Ports/Ports.csproj",
+  "expectedPackageFiles": [
+    "/Users/sophia/.nuget/packages/sourcekit.analyzers.collections/1.0.4/sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "/Users/sophia/.nuget/packages/sourcekit.analyzers.enumerable/1.0.4/sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "/Users/sophia/.nuget/packages/sourcekit.analyzers.memberaccessibility/1.0.4/sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "/Users/sophia/.nuget/packages/sourcekit.analyzers.nullable/1.0.4/sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "/Users/sophia/.nuget/packages/sourcekit.analyzers.properties/1.0.4/sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "/Users/sophia/.nuget/packages/stylecop.analyzers/1.2.0-beta.507/stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "/Users/sophia/.nuget/packages/stylecop.analyzers.unstable/1.2.0.507/stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}
